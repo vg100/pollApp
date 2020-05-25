@@ -1,2 +1,0 @@
-# pollApp
-Created with CodeSandbox

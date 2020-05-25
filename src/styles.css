@@ -1,0 +1,37 @@
+body {
+  padding-top: 70px;
+}
+
+.center {
+  text-align: center;
+}
+
+.options {
+  font-size: 1.5em;
+}
+
+.poll-list:hover {
+  text-decoration: none;
+}
+
+.poll-list, .poll-list:hover, .poll-list:focus {
+  color: #222;
+}
+
+.poll-list li {
+	margin-top: 10px;
+	font-size: 1.2em;
+}
+
+.list-ety:hover {
+	background-color: #dff0d8;
+}
+
+.chart {
+	margin-top: 30px;
+}
+
+.twitter, .twitter:hover, .twitter:focus {
+	background-color: #4099FF;
+	color: white;
+}
